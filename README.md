@@ -1,4 +1,4 @@
-Hydra: Hypermedia-Driven Web APIs
+Hydra:Hypermedia-Driven Web APIs
 =====================================================================
 
 Building Web APIs seems still more an art than a science. How can we
